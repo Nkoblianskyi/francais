@@ -20,7 +20,7 @@ export const bettingSites: BettingSite[] = [
     name: "Winamax",
     logo: "/winamax.png",
     bonus: "1er Pari Remboursé En Cash Jusqu'à 100 €",
-    url: "http://winamax.fr/",
+    url: "https://winamax.fr/",
     rating: 9.8,
     stars: 5,
     reviews: 7000,
