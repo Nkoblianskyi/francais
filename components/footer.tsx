@@ -95,9 +95,6 @@ export function Footer() {
               © 2025 FrancaisSport.com - Tous droits réservés. Informations fournies à titre informatif uniquement.
             </p>
             <div className="flex space-x-6 text-sm">
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
-                Mentions Légales
-              </a>
               <a href="/politique-confidentialite" className="text-slate-400 hover:text-white transition-colors">
                 Confidentialité
               </a>
